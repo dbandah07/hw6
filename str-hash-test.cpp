@@ -19,6 +19,11 @@ int main(int argc, char* argv[])
     string k(argv[1]);
     size_t hk = h1(k);
     // Test the hash
+    // for (int t = 0; t < 5; t++) {
+    //   std::cout << "w[" << t << "]" << k[t] << std::endl;
+    // }
+    
     cout << "h(" << k << ")=" << hk << endl;
+
     return 0;
 }
