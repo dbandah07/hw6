@@ -15,3 +15,6 @@ The homework emphasizes **hashing techniques, collision resolution strategies, p
 - Efficient pruning of invalid word paths
 - Unit tests and driver programs for validation
 - Build automation using a Makefile
+
+## Notes
+Completed during Fall 2025. 
